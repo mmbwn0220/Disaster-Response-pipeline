@@ -45,3 +45,4 @@ it contains the flask web app for data visualizations using Plotly in the web ap
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
