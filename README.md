@@ -1,5 +1,5 @@
-( models/train_classifier.py)# Disaster-Response-pipeline
-Disaster Response pipeline
+# Disaster-Response-pipeline
+Disaster Response pipeline project
 
 Project Overview
 This project is to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
